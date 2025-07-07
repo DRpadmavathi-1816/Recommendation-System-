@@ -1,5 +1,11 @@
 # Recommendation-System-
-
+# INTERNSHIP INFORMATION-
+- Company : CODETECH IT SOLUTIONS PVT LTD 
+- Name : Dhupam Renuka Padmavathi 
+- Intern Id:CT06DF796
+- Duration : 6weeks 
+- Domain : Machine learning 
+- Mentor : Neela Shantosh 
 
 # 🎞️ Movie Recommendation System – User‑Based Collaborative Filtering
 
@@ -77,8 +83,6 @@ Top recommendations for User 1.                - (No recommendations — either
 - numpy
 
 - matplotlib
-
-
 
 🤔 Extending the Demo
 
