@@ -24,18 +24,13 @@ It demonstrates how to:
 
 <div align="center">
 
-Figure 1 – Cosine‑similarity between users (brighter = more similar).
-
-</div>
----
+Figure 1 – Cosine‑simi
 
 🚀 Quick Start
 
-# 1. Clone the repo & enter it
-git clone https://github.com/your‑username/recommender-demo.git
-cd recommender-demo
 
-# 2. (Optional) Create a fresh virtual environment
+
+# - (Optional) Create a fresh virtual environment
 python -m venv .venv
 source .venv/bin/activate  # 🪟 Use .venv\\Scripts\\activate on Windows
 
