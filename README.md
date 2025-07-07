@@ -21,19 +21,6 @@ It demonstrates how to:
 3. Aggregate scores to generate personalised movie recommendations
 
 
-
-<div align="center">
-
-Figure 1 – Cosine‑simi
-
-🚀 Quick Start
-
-
-
-# - (Optional) Create a fresh virtual environment
-python -m venv .venv
-source .venv/bin/activate  # 🪟 Use .venv\\Scripts\\activate on Windows
-
 # 3. Install dependencies
 pip install -r requirements.txt
 
@@ -41,7 +28,6 @@ pip install -r requirements.txt
 python recommendation\ system.py
 
 
----
 
 # 🧐 How It Works
 
@@ -62,12 +48,9 @@ Top recommendations for User 1.                - (No recommendations — either
 
 📂 File Structure
 
-.
-├─ recommendation system.py   # The complete script
-├─ similarity_heatmap.png     # Generated demo visualisation
-└─ README.md                  # You’re reading it!
-
-
+- recommendation system.py  
+-  similarity_heatmap.png    
+- README.md                  
 
 # 🔧 Requirements
 
